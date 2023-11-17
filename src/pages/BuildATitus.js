@@ -70,23 +70,23 @@ export default function BuildATitus() {
                 setBackground(item);
                 break;
 
-            case "accessory":
+            case "Accessory":
                 setAccessory(item);
                 break;
 
-            case "hat":
+            case "Hat":
                 setHat(item);
                 break;
 
-            case "pants":
+            case "Pants":
                 setPants(item);
                 break;
             
-            case "shoe":
+            case "Shoe":
                 setShoes(item);
                 break;
 
-            case "shirt":
+            case "Shirt":
                 setShirt(item);
                 break;
 
