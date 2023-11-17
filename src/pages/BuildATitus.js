@@ -44,7 +44,7 @@ const MetallicButton = styled.button`
 
 export default function BuildATitus() {
     const [currentAccount, setCurrentAccount] = useState(null);
-    const [body, setBody] = useState("/titusparts/Body.png");
+    const [body, setBody] = useState("/titusparts/body.png");
     const [background, setBackground] = useState("/titusparts/bg/bg_AmenCorner.png");
     const [accessory, setAccessory] = useState("/titusparts/Accessory/7Iron.png");
     const [hat, setHat] = useState("/titusparts/Hat/BlackBallcap.png");
