@@ -156,27 +156,27 @@ export default function BuildATitus() {
     </MetallicButton>
 </Col>
 <Col>
-    <MetallicButton style={{ width: '100%', cursor: 'pointer' }} onClick={() => {changePartsTray('hat');}}>
+    <MetallicButton style={{ width: '100%', cursor: 'pointer' }} onClick={() => {changePartsTray('Hat');}}>
         Hat
     </MetallicButton>
 </Col>
 <Col>
-    <MetallicButton style={{ width: '100%', cursor: 'pointer' }} onClick={() => {changePartsTray('pants');}}>
+    <MetallicButton style={{ width: '100%', cursor: 'pointer' }} onClick={() => {changePartsTray('Pants');}}>
         Pants
     </MetallicButton>
 </Col>
 <Col>
-    <MetallicButton style={{ width: '100%', cursor: 'pointer' }} onClick={() => {changePartsTray('shirt');}}>
+    <MetallicButton style={{ width: '100%', cursor: 'pointer' }} onClick={() => {changePartsTray('Shirt');}}>
         Shirt
     </MetallicButton>
 </Col>
 <Col>
-    <MetallicButton style={{ width: '100%', cursor: 'pointer' }} onClick={() => {changePartsTray('shoe');}}>
+    <MetallicButton style={{ width: '100%', cursor: 'pointer' }} onClick={() => {changePartsTray('Shoe');}}>
         Shoes
     </MetallicButton>
 </Col>
 <Col>
-    <MetallicButton style={{ width: '100%', cursor: 'pointer' }} onClick={() => {changePartsTray('accessory');}}>
+    <MetallicButton style={{ width: '100%', cursor: 'pointer' }} onClick={() => {changePartsTray('Accessory');}}>
         Accessories
     </MetallicButton>
 </Col>
@@ -237,27 +237,27 @@ export default function BuildATitus() {
     </MetallicButton>
 </Col>
 <Col>
-    <MetallicButton style={{ width: '100%', cursor: 'pointer' }} onClick={() => {changePartsTray('hat');}}>
+    <MetallicButton style={{ width: '100%', cursor: 'pointer' }} onClick={() => {changePartsTray('Hat');}}>
         Hat
     </MetallicButton>
 </Col>
 <Col>
-    <MetallicButton style={{ width: '100%', cursor: 'pointer' }} onClick={() => {changePartsTray('pants');}}>
+    <MetallicButton style={{ width: '100%', cursor: 'pointer' }} onClick={() => {changePartsTray('Pants');}}>
         Pants
     </MetallicButton>
 </Col>
 <Col>
-    <MetallicButton style={{ width: '100%', cursor: 'pointer' }} onClick={() => {changePartsTray('shirt');}}>
+    <MetallicButton style={{ width: '100%', cursor: 'pointer' }} onClick={() => {changePartsTray('Shirt');}}>
         Shirt
     </MetallicButton>
 </Col>
 <Col>
-    <MetallicButton style={{ width: '100%', cursor: 'pointer' }} onClick={() => {changePartsTray('shoe');}}>
+    <MetallicButton style={{ width: '100%', cursor: 'pointer' }} onClick={() => {changePartsTray('Shoe');}}>
         Shoes
     </MetallicButton>
 </Col>
 <Col>
-    <MetallicButton style={{ width: '100%', cursor: 'pointer' }} onClick={() => {changePartsTray('accessory');}}>
+    <MetallicButton style={{ width: '100%', cursor: 'pointer' }} onClick={() => {changePartsTray('Accessory');}}>
         Accessories
     </MetallicButton>
 </Col>
