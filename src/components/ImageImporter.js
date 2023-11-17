@@ -19,19 +19,19 @@ export default function ImageTray({dir, onClick, bg, type}) {
           case "bg":
             images = importAll(require.context('../../public/titusparts/bg', false, /\.(png|jpe?g|svg)$/));
             break;
-          case "hat":
+          case "Hat":
             images = importAll(require.context('../../public/titusparts/Hat', false, /\.(png|jpe?g|svg)$/));
             break;
-          case "pants":
+          case "Pants":
             images = importAll(require.context('../../public/titusparts/Pants', false, /\.(png|jpe?g|svg)$/));
             break;
-          case "shirt":
+          case "Shirt":
             images = importAll(require.context('../../public/titusparts/Shirt', false, /\.(png|jpe?g|svg)$/));
             break;
-          case "shoe":
+          case "Shoe":
             images = importAll(require.context('../../public/titusparts/Shoe', false, /\.(png|jpe?g|svg)$/));
             break;
-          case "accessory":
+          case "Accessory":
             images = importAll(require.context('../../public/titusparts/Accessory', false, /\.(png|jpe?g|svg)$/));
             break;
 
